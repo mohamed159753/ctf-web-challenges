@@ -1,0 +1,7 @@
+# Robots.txt for Tunisian Recipe Website
+User-agent: *
+Disallow: /secret-recipe/
+Disallow: /admin/
+Disallow: /flag.txt
+
+# Some paths are meant to stay hidden...
